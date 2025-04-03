@@ -41,7 +41,7 @@ Results-driven, GCP Cloud Data Engineer and Python Developer with over 2.5 years
 **4. *Pyspark Application using Python**
 - Skills : Python, Pyspark, SQL, Logging, Pytest , GitHub
 - Built a PySpark-based ETL pipeline designed to read, transform, and stream data to upstream systems using Kafka.
-- [Check Code here](https://github.com/Rohit-Sandanshiv/pyspark_kafka_project)
+- <a href="https://github.com/Rohit-Sandanshiv/pyspark_kafka_project" target="_blank">Check Code here</a>
 
 
 **5. *REST API using Flask and requests**
