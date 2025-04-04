@@ -41,19 +41,19 @@ Results-driven, GCP Cloud Data Engineer and Python Developer with over 2.5 years
 **4. *PySpark ETL Pipeline using Kafka**
 - Skills : Python, Pyspark, SQL, Logging, Pytest , GitHub
 - Built a PySpark-based ETL pipeline designed to read, transform, and stream data to upstream systems using Kafka.
-- 👉[Check Code here](https://github.com/Rohit-Sandanshiv/pyspark_kafka_project)
+- *👉[Check Code here](https://github.com/Rohit-Sandanshiv/pyspark_kafka_project)*
 
 
 **5. *Consumer Management REST API**
 - skills: Python , Flask, SQLite, requests, JSON , GitHub
 - Consumer Management API: This is a simple Flask-based REST API for managing consumers, products, and purchases. It supports adding, updating, and retrieving consumer details using POST and GET requests via Python’s requests module.
-- 👉[Check Code here](https://github.com/Rohit-Sandanshiv/python_api)
+- *👉[Check Code here](https://github.com/Rohit-Sandanshiv/python_api)*
 
 
 **6. * Scalable Purchase Pipeline on GCP**
 - Python, Django, Cloud Run, Cloud Run Functions, Pub/Sub, Dataflow , Docker, GitHub
 - Purchase API hosted on Cloud Run, loading data into MongoDB database using a Dataflow, Cloud Functions, and Pub/Sub.
-- 👉[Check Code here](https://github.com/Rohit-Sandanshiv/django_cloudRun_Project) 
+- *👉[Check Code here](https://github.com/Rohit-Sandanshiv/django_cloudRun_Project)* 
 
 
 
