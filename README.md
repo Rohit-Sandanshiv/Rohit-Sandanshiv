@@ -86,11 +86,11 @@ Hackerrank: **https://www.hackerrank.com/profile/rssandanshiv7821**
 <div>
 <br>
 <p align="left">
-  <a href="rssandanshiv782000@gmail.com" target="_blank"><img align="center" src="utils/icons/gmail.png" alt="Gmail" height="30" width="40" /></a>
+  <a href="mailto:rssandanshiv782000@gmail.com" target="_blank"><img align="center" src="utils/icons/gmail.png" alt="Gmail" height="30" width="40" /></a>
     &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rohit-sandanshiv-0785a71a7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/rssandanshiv782" target="_blank"><img align="center" src="utils/icons/hackerrank.png" alt="Hackerrank" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/rssandanshiv7821" target="_blank"><img align="center" src="utils/icons/hackerrank.png" alt="Hackerrank" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages, Tools & Frameworks :</h3>
 <p align="left"> 
