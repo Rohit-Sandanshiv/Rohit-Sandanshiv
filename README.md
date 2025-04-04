@@ -44,7 +44,7 @@ Results-driven, GCP Cloud Data Engineer and Python Developer with over 2.5 years
 - <a href="https://github.com/Rohit-Sandanshiv/pyspark_kafka_project" target="_blank">Check Code here</a>
 
 
-**5. *REST API using Flask and requests**
+**5. *Consumer Management API**
 - skills: Python , Flask, SQLite, requests, JSON , GitHub
 - Consumer Management API: This is a simple Flask-based REST API for managing consumers, products, and purchases. It supports adding, updating, and retrieving consumer details using POST and GET requests via Python’s requests module.
 - [Check Code here](https://github.com/Rohit-Sandanshiv/python_api)
