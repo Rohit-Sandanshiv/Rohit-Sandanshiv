@@ -83,6 +83,21 @@ Linkdin :**https://www.linkedin.com/in/rohit-sandanshiv-0785a71a7/**
 
 Hackerrank: **https://www.hackerrank.com/profile/rssandanshiv7821**
 
-<pre align="center">🌟 Keep leveling up in the world of data & code! 🌟</pre>
-<br><br><br>
+<div>
+<br>
+<p align="left">
+<a href="https://github.com/Rohit-Sandanshiv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohit Sandanshiv" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" width="140" />
+  <pre>🌟 Keep leveling up in the world of data & code! 🌟</pre>
+  <br><br><br>
 </div>
