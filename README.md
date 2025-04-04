@@ -123,7 +123,7 @@ Hackerrank: **https://www.hackerrank.com/profile/rssandanshiv7821**
     &nbsp;&nbsp;&nbsp;
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="utils/icons/docker.png" alt="html5" width="40" height="40"/></a>
     &nbsp;&nbsp;&nbsp;
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="utils/icons/git.png" alt="html5" width="40" height="40"/></a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="utils/icons/git.png" alt="html5" width="40" height="40"/></a>
     &nbsp;&nbsp;&nbsp;
  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="utils/icons/terraform.png" alt="html5" width="40" height="40"/></a>
     &nbsp;&nbsp;&nbsp;
