@@ -1,4 +1,4 @@
-<img src="utils/cover.gif" width="100%" height="auto" />
+<img src="utils/presentation1.gif" width="100%" height="auto" />
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Courgette&size=28&pause=6000&center=true&color=FFFFFF&width=435&height=55&lines=Hello+All...!" />
   <br>
