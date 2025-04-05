@@ -1,8 +1,8 @@
 <img src="utils/Presentation1.gif" width="100%" height="auto" />
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=28&pause=6000&center=true&color=2CFF05&width=435&height=55&lines=Hello+All...!" />
+<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=28&pause=6000&center=true&color=2AFEB7&width=435&height=55&lines=Hello+All...!" />
   <br>
-<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=28&pause=6000&color=2CFF05&width=600&height=55&lines=%E2%98%86+This+is+Rohit%2C+Turning+data+into+magic+%E2%98%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=28&pause=6000&color=2AFEB7&width=600&height=55&lines=%E2%98%86+This+is+Rohit%2C+Turning+data+into+magic+%E2%98%86" alt="Typing SVG" />
 </div> 
 <br>
 <div align="left">
