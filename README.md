@@ -34,7 +34,7 @@ Results-driven, GCP Cloud Data Engineer and Python Developer with over 2.5 years
 - Independently resolved a security breach by modifying Dataflow code for 180+ batch jobs, ensuring secure and compliant secret management
 
 
-**3. *Data Engineer [ Nov 2023 – Dec 2024 ]**
+**3. *Data Engineer [ Nov 2022 – Dec 2023 ]**
 - Optimized batch data pipelines on Cloud Run & BigQuery, enabling the processing of 20+ terabytes of data within a sub-3-hourservice level agreement, satisfying critical stakeholder requirements.
 
 
