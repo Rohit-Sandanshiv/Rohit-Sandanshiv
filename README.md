@@ -8,7 +8,7 @@
 <div align="left">
 
 ## 🚀 `About Me`
-Results-driven, GCP Cloud Data Engineer and Python Developer with over 2.5 years of experience at Capgemini, specializing inREST API development using Flask and Django. Skilled in designing and implementing end-to-end data pipelines on Google CloudPlatform (GCP) with tools like Cloud Dataflow (Apache Beam) and Cloud Composer (Airflow). Proficient in ETL processes, datamigration, working with relational databases such as SQL and Spanner, as well as Big Data technologies like BigQuery and NoSQLdatabases such as MongoDB. Expertise in data processing, storage, and retrieval, with advanced Python skills, leveraging pandas andPySpark for data manipulation and analysis. 
+Results-driven, GCP Cloud Data Engineer and Python Developer with over 2.5 years of experience at Capgemini, specializing in REST API development using Flask and Django. Skilled in designing and implementing end-to-end data pipelines on Google Cloud Platform (GCP) with tools like Cloud Dataflow (Apache Beam) and Cloud Composer (Airflow). Proficient in ETL processes, datamigration, working with relational databases such as SQL and Spanner, as well as Big Data technologies like BigQuery and NoSQL databases such as MongoDB. Expertise in data processing, storage, and retrieval, with advanced Python skills, leveraging pandas and PySpark for data manipulation and analysis. 
 
 ## 🔧 `Technologies & Tools`
 - **Languages/Databases:** Python, SQL, PySpark, HTML, terraform, shell Scripting (unix), mongoDB
