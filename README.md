@@ -79,7 +79,7 @@ Results-driven, GCP Cloud Data Engineer and Python Developer with over 2.5 years
 ## `Connect With me`
 Reach out to me **rssandanshiv782000@gmail.com**
 
-Linkdin :**https://www.linkedin.com/in/rohit-sandanshiv-0785a71a7/**
+Linkdin :**https://www.linkedin.com/in/rohitsandanshiv-python-dataengineer/**
 
 Hackerrank: **https://www.hackerrank.com/profile/rssandanshiv7821**
 
@@ -88,7 +88,7 @@ Hackerrank: **https://www.hackerrank.com/profile/rssandanshiv7821**
 <p align="left">
   <a href="mailto:rssandanshiv782000@gmail.com" target="_blank"><img align="center" src="utils/icons/gmail.png" alt="Gmail" height="30" width="40" /></a>
     &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rohit-sandanshiv-0785a71a7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rohitsandanshiv-python-dataengineer/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/rssandanshiv7821" target="_blank"><img align="center" src="utils/icons/hackerrank.png" alt="Hackerrank" height="30" width="40" /></a>
 </p>
