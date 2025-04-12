@@ -74,7 +74,7 @@ Results-driven, GCP Cloud Data Engineer and Python Developer with over 2.5 years
 
 
 ## 📄 `Resume`
-[Check here](utils/Rohit_Sandanshiv_python_dataEngineer.pdf)
+[Check here](utils/Rohit_Sandanshiv_python_data.pdf)
 
 ## `Connect With me`
 Reach out to me **rssandanshiv782000@gmail.com**
